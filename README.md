@@ -1,0 +1,1 @@
+Hello !!! Welcome to my Profile. This Repository which I Created for Bharat Intern Web Development and Designing Internship tasks.It consists of 3 tasks such as Portfolio Website(task 1) ,  Weather Website(task 2) , Homepage of netflix(task3). I divided these tasks as three files and each file(each task) having its code which includes HTML , CSS & JAVASCRIPT Code.
